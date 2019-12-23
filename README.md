@@ -1,4 +1,4 @@
-A Sample ML Project that recognizes handwritten single digits.
+<b>A Sample ML Project that recognizes handwritten single digits.</b>
 
 The working Javascript model on HTML is hosted on https://shah-raj.github.io/RIIDIGIT/
 
@@ -11,9 +11,9 @@ To train the model follow the steps:
   5. Run the file
 
 <b>Contributors:
-  Mrunal Dhumne
-  Dhara Nayak
-  Jenil Chandibhamar
-  Harsh Nagoriya
-  Rishit Shah
-  Raj Shah
+  <br>Mrunal Dhumne
+  <br>Dhara Nayak
+  <br>Jenil Chandibhamar
+  <br>Harsh Nagoriya
+  <br>Rishit Shah
+  <br>Raj Shah
