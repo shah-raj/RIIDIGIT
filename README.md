@@ -11,9 +11,9 @@ To train the model follow the steps:
   5. Run the file
 
 <b>Contributors:
-  <br>Mrunal Dhumne
-  <br>Dhara Nayak
-  <br>Jenil Chandibhamar
-  <br>Harsh Nagoriya
-  <br>Rishit Shah
-  <br>Raj Shah
+  <br></t>Mrunal Dhumne
+  <br></t>Dhara Nayak
+  <br></t>Jenil Chandibhamar
+  <br></t>Harsh Nagoriya
+  <br></t>Rishit Shah
+  <br></t>Raj Shah
