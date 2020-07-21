@@ -1,6 +1,6 @@
 <b>A Sample ML Project that recognizes handwritten single digits.</b>
 
-The working Javascript model on HTML is hosted on https://shah-raj.github.io/Handwritten-Digit-Recognition/
+The working Javascript model on HTML is hosted [here](https://shah-raj.github.io/Handwritten-Digit-Recognition/)
 
 To train the model follow the steps:
   1. Extract the testing and training dataset
