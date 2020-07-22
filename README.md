@@ -1,4 +1,4 @@
-<b>A Sample ML Project that recognizes handwritten single digits.</b>
+<b>A Machine Learning Project that recognizes handwritten single digits.</b>
 
 The working Javascript model on HTML is hosted [here](https://shah-raj.github.io/Handwritten-Digit-Recognition/)
 
