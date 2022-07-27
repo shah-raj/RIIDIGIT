@@ -16,3 +16,4 @@ To train the model follow the steps:
   <br></t>Harsh Nagoriya
   <br></t>Rishit Shah
   <br></t>Raj Shah
+  <br></t>Smit Shah
